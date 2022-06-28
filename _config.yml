@@ -1,0 +1,6 @@
+title: "zam"
+description: >-
+  Theory, design and building of AM Radio Circuits.
+baseurl: /zam
+search_enabled: true
+remote_theme: just-the-docs/just-the-docs
