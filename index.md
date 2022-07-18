@@ -10,6 +10,7 @@ does 10 year down the road.
 
 {% include figure.html 
     file="assets/img/zam-drawingv2.png" 
-    caption="A dog named Sam, which sounds like Zam and is enough to put her here" alt="Sam the Dog" 
+    caption="A dog named Sam, which sounds like Zam. 
+    This automatically makes the website cool, just like it happens with programming books." alt="Sam the Dog" 
     extra="logo"
 %}
